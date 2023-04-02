@@ -99,6 +99,7 @@ const Home = ({ navigation } : HomePropsType ) => {
                 onEndReachedThreshold={0.5}
                 ListFooterComponent={renderFooter}
                 numColumns={NUM_COLUMNS}
+                testID="movies-list" 
             />
         </View>
         
