@@ -20,7 +20,9 @@ This is a project built with ExpoJS, a platform that allows you to build and dep
 
 ## Developpement : 
 • J'ai choisi d'utiliser TypeScript afin de réduire les risques d'erreurs pendant le développement.
+
 • J'ai créé un exemple pour chaque composant dans le cadre des tests unitaires.
+
 • J'ai réalisé un exemple de test E2E avec Cypress pour la page "Tranding".
 
 
